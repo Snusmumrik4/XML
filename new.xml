@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+<surname>Novikova</surname>
+<name>Anna</name>
+<age>34</age>
+<amount_animals>1</amount_animals>
+<expected_salary>1200</expected_salary>
+</person>
+
