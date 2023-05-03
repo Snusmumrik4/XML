@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+            <skill_1>microservices</skill_1>
+            <skill_2>dev_tools</skill_2>
+            <skill_3>terminal</skill_3>
+            <skill_4>traffic sniffing</skill_4>
+            <skill_5>web testing</skill_5>
+            <skill_6>mobile testing</skill_6>
+            <skill_7>postman</skill_7>
+            <skill_8>ADB</skill_8>
+            <skill_9>bash</skill_9>
+            <skill_10>SQL</skill_10>
+            <skill_11>database</skill_11>
+            <skill_12>stress testing</skill_12>
+            <skill_13>test design techniques</skill_13>
+</skills>
