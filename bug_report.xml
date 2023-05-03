@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+     <Id_bug>1</Id_bug>
+     <Enviroment>iOS safari</Enviroment>
+     <Title_bug>The menu title [Library] cannot be clicked</Title_bug>
+    <STR>
+         <_1>opend main page</_1>
+         <_2>click on [Library]</_2>
+    </STR>
+    <Expected_result>The menu title [Library] click is available</Expected_result>
+    <Actual_result>The menu title [Library] cannot be clicked</Actual_result>
+    <Severity>minor</Severity>
+    <Priority>low</Priority>
+</bug_report>
